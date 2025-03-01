@@ -1,2 +1,1 @@
-# gestao-de-artefatos
-Armazenamento e gerenciamento de artefatos de projeto de software com foco em Governança, ITIL, COBIT e ESG.
+Este repositório é dedicado à gestão de artefatos de projetos de software, alinhado com as boas práticas de ITIL, COBIT e ESG.
